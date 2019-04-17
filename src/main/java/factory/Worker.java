@@ -1,7 +1,7 @@
 package factory;
 
 public class Worker {
-    
+
     public String[][] workerLeft;       // Worker left of the belt
     public String[][] workerRight;      // Worker right of the belt
     private int[] workerLeftPresent;    // Presence of workers on left
