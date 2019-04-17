@@ -1,0 +1,53 @@
+Below are the 4 Simulations that have been run. I have varied the belt lenght/no. of workers, the amount of components required for a Product and the number of simulations run. Please see attached .png images associated with these in the 'Results' folder. 
+
+
+-----
+
+SIMULATION 1:
+Run: 100 times
+Belt Length: 3 (3 pairs of workers)
+Components req’d for Product: 2
+
+RESULT 1:
+Unused A Components: 11
+Unused B Components: 0
+Assembled Products: 23
+
+-----
+
+SIMULATION 2:
+Run: 1,000,000 times
+Belt Length: 3 (3 pairs of workers)
+Components req’d for Product: 2
+
+RESULT 2:
+Unused A Components: 41,866
+Unused B Components: 41,611
+Assembled Products: 291,075
+
+-----
+
+SIMULATION 3:
+Run: 100 times
+Belt Length: 5 (5 pairs of workers)
+Components req’d for Product: 2
+
+RESULT 3:
+Unused A Components: 0
+Unused B Components: 9
+Assembled Products: 21
+
+-----
+
+SIMULATION 4:
+Run: 100 times
+Belt Length: 3 (3 pairs of workers)
+Components req’d for Product: 3
+
+RESULT 4:
+Unused A Components: 3
+Unused B Components: 7
+Unused C Components: 2
+Assembled Products: 17
+
+-----
