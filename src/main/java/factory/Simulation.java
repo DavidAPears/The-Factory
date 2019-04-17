@@ -80,7 +80,7 @@ public class Simulation {
 
         // Create and run simulation
         Simulation mySimulation = new Simulation(myBelt, myWork, myDraw);
-        int simTime = 100;
+        int simTime = 100; 
         mySimulation.runSimulation(simTime);
 
         //----------------------------------------------------------------------

@@ -71,3 +71,12 @@ certain
    creating an overly complicated, but very flexible simulation engine?)
 -----------------------------------------------------------------------------
 ```
+
+In order to run the simulation:
+
+1) download the files from https://github.com/DavidAPears/The-Factory
+2) OPen 'IntelliJ IDEA'
+3) Located file 'Simulation' on the following file path:
+```Factory > src > main > java > factory > Simulation```
+4) Hit 'run' (the 'play' triangle in the top bar of IntelliJ)
+5) Simulation will run 100 times, showing results of unused components and assembled products (as requested)
